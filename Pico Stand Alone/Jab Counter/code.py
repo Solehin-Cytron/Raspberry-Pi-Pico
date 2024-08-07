@@ -1,3 +1,13 @@
+"""
+DESCRIPTION:
+This example code will counting jab using piezoelectric sensors
+the on Raspberry Pi Pico.
+
+AUTHOR   : Cytron Technologies Sdn Bhd
+WEBSITE  : www.cytron.io
+EMAIL    : support@cytron.io
+
+"""
 import time
 import board
 import digitalio
