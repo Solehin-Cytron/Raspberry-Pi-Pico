@@ -1,7 +1,7 @@
 """
 DESCRIPTION:
 This example code will launch the ball
-with dual DC motor using ROBO Pico with PICO 
+with dual DC motor using ROBO Pico with Raspberry Pi Pico 2
 
 AUTHOR   : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io

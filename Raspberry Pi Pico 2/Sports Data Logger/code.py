@@ -1,7 +1,7 @@
 """
 DESCRIPTION:
-This example code will log the Raspberry Pi Pico 
-accelerometer data on Raspberry Pi Pico.
+This example code will log the accelerometer
+data on Raspberry Pi Pico 2.
 
 AUTHOR   : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io

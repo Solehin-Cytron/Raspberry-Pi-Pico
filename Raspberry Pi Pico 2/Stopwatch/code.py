@@ -1,7 +1,7 @@
 """
 DESCRIPTION:
 This example code will be stopwatch with lap function 
-using Raspberry Pi Pico.
+using Raspberry Pi Pico 2.
 
 AUTHOR   : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io

@@ -1,6 +1,6 @@
 """
 DESCRIPTION:
-This example code will counting jump on Raspberry Pi Pico.
+This example code will counting jump on Raspberry Pi Pico 2.
 
 AUTHOR   : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io

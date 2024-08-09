@@ -1,7 +1,7 @@
 """
 DESCRIPTION:
 This example code will counting jab using piezoelectric sensors
-the on Raspberry Pi Pico.
+the on Raspberry Pi Pico 2.
 
 AUTHOR   : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
